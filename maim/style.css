@@ -17,6 +17,7 @@ img{
     max-width: 100%;
     height: auto;
     display: block;
+    
 }
 header{
     background-color: rgb(165, 91, 186);
@@ -32,8 +33,19 @@ footer{
     display: flex;
     border: 2px solid rgb(99, 99, 99);
     gap: 15px;
-    
+    background-color: white;
+}
+a{
+    display: block;
+    color: black;
+    text-decoration: none;
+    text-align: center;
 }
 .tengah{
     text-align: center;
+
+}
+.logo{
+    padding: 10px;
+    border-radius: 10px;
 }
