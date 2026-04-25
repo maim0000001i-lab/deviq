@@ -23,8 +23,14 @@ header{
     background-color: rgb(165, 91, 186);
     color: white;
 }
+nav{
+    background-color: aliceblue;
+    display: block;
+    text-align: center;
+    align-items: center;
+}
 main{
-    background-color: rgb(99, 255, 255);
+    background-color: white;
 }
 footer{
     background-color: aliceblue;
@@ -54,4 +60,7 @@ section + section{
 }
 section{
     padding: 40px 0;
+}
+.tombol{
+    background-color: rgb(255, 51, 51);
 }
