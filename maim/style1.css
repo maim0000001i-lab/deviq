@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(108, 68, 145);
+    line-height: 1.5;
+}
+header{
+    text-align: center;
+    color: white;
+}
+.container{
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 15px;
+}
+main{
+    background-color: white;
+}
