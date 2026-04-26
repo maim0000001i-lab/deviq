@@ -19,4 +19,14 @@ header{
 }
 main{
     background-color: white;
+    text-align: center;
+
+}
+footer{
+    text-align: center;
+}
+.item{
+    border: 2px solid whitesmoke;
+    color: aliceblue;
+    background-color: lightgray;
 }

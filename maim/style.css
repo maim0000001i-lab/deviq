@@ -63,4 +63,12 @@ section{
 }
 .tombol{
     background-color: rgb(255, 51, 51);
+    border: 2px solid black;
+}
+.tombol1{
+    background-color: white;
+    border: 1px solid black;
+}
+hr{
+    border: 1px solid black;
 }
