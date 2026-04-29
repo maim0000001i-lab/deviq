@@ -24,9 +24,17 @@ main{
 }
 footer{
     text-align: center;
+    color: white;
 }
 .item{
     border: 2px solid whitesmoke;
     color: aliceblue;
     background-color: lightgray;
+}
+.tombol{
+    background-color: rgb(51, 255, 99);
+    border: 2px solid black;
+}
+footer a{
+    text-decoration: none;
 }
