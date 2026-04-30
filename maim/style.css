@@ -24,7 +24,9 @@ header{
 }
 nav{
     background-color: aliceblue;
-    display: block;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
     text-align: center;
     align-items: center;
 }
@@ -41,7 +43,7 @@ footer{
     background-color: white;
 }
 a{
-    display: block;
+    display: inline-block;
     color: black;
     text-decoration: none;
     text-align: center;
@@ -65,9 +67,27 @@ section{
     border: 2px solid black;
 }
 .tombol1{
+    border-radius: 100px;
     background-color: white;
     border: 1px solid black;
+    text-align: center;
 }
 hr{
     border: 1px solid black;
+}
+nav a{
+    padding-inline: 10px;
+    border-radius: 100px;
+}
+.tombol2{
+    border-radius: 130px;
+    border: none;
+    background-color: rgb(255, 62, 255);
+    text-align: center;
+}
+.tombol3{
+    border-radius: 130px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
 }

@@ -37,4 +37,6 @@ footer{
 }
 footer a{
     text-decoration: none;
+    color: white;
+    padding-inline: 10px;
 }
